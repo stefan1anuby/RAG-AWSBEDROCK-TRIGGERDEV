@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@aws-sdk/client-bedrock-agent-runtime": "^3.697.0",
+    "@aws-sdk/client-bedrock-runtime": "^3.696.0",
+    "@trigger.dev/sdk": "^3.2.1"
+  },
+  "devDependencies": {
+    "@trigger.dev/build": "^3.2.1"
+  }
+}
